@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1008232560557",
+    "firebase_url": "https://surveyapp-78e10.firebaseio.com",
+    "project_id": "surveyapp-78e10",
+    "storage_bucket": "surveyapp-78e10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008232560557:android:c1ca64b8387a7004",
+        "android_client_info": {
+          "package_name": "com.cooperativasalcaja.renezelada.surveyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008232560557-mftkan1kla58ui43ad2563u7svikv4hn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cooperativasalcaja.renezelada.surveyapp",
+            "certificate_hash": "14ea97a367537e0ee89abfed0f3d4b678bce5c26"
+          }
+        },
+        {
+          "client_id": "1008232560557-qraak4hu00f0iq2h1in94rj2gskp8ob2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe0r-tkaQZx6rMAvqhe6Y-CzzU8lafsgQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008232560557-qraak4hu00f0iq2h1in94rj2gskp8ob2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
